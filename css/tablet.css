@@ -1,0 +1,12 @@
+.containerNewsletter{
+    flex-direction: row;
+    padding: 2rem;
+    .containerImage{
+        .imageMobile{
+            display: none;
+        }
+        .imageDesktop{
+            display: block;
+        }
+    }
+}
